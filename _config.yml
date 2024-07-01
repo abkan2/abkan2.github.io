@@ -1,30 +1,27 @@
-#
 # This file contains configuration flags to customize your site
-#
 
 # Name of your site (displayed in the header)
 name: abkan2.github.io
 
 # Short bio or description (displayed in the header)
-description: Summer 2024 DREU Project/Internship: This summer I will be working as an undergraduate research assistant in Dr. Sameer Patil's research lab on different game development projects. I am a rising Senior computer science major attending Morgan State University. My research areas of interest include Health and fitness, Game Development, and UI/UX design.  
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+description: "Summer 2024 DREU Project/Internship: This summer I will be working as an undergraduate research assistant in Dr. Sameer Patil's research lab on different game development projects. I am a rising Senior computer science major attending Morgan State University. My research areas of interest include Health and fitness, Game Development, and UI/UX design."
 
-#
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: "https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png"
+
 # Flags below are optional
-#
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email: abdulkanu12@gmail.com
-  facebook:
-  flickr:
-  rss: # just type anything here for a working RSS icon
+  dribbble: ""
+  email: "abdulkanu12@gmail.com"
+  facebook: ""
+  flickr: ""
+  rss: "" # just type anything here for a working RSS icon
 
 # Your website URL (e.g. http://ajstent.github.io)
 # Used for Sitemap.xml and your RSS feed
-url:https://abkan2.github.io
+url: "https://abkan2.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -32,9 +29,7 @@ url:https://abkan2.github.io
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
-#
 # !! You don't need to change any of the configuration flags below !!
-#
 
 permalink: /:title/
 
